@@ -1,3 +1,3 @@
 # ContactReportProject
 
-* Entity Framework CodeFirst yaklaşımıyla Azure PostgreSQL ve RabbitMQ kullanılarak geliştirdiğim örnek .Net Core projesi
+* Sample .Net Core project I developed using Azure PostgreSQL and RabbitMQ with Entity Framework CodeFirst approach
